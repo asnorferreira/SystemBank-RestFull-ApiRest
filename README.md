@@ -12,6 +12,7 @@ This project implements a RESTful API for a banking system, providing features s
 
 - Node.js
 - Express.js
+- Insomnia
 - JSON for data storage
 
 ## How to Run the Project

@@ -26,7 +26,7 @@ npm install
 - Run each project with
 
 ```shell
-npm run start
+npm run dev
 ```
 
 ## Contributing

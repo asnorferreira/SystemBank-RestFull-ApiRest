@@ -8,6 +8,8 @@
 
 This project implements a RESTful API for a banking system, providing features such as account management, transaction processing (deposits, withdrawals, and transfers), and user authentication.
 
+<img src="/assets/img/testExtrato.jpeg">
+
 ## Technologies Used
 
 - Node.js
@@ -16,9 +18,10 @@ This project implements a RESTful API for a banking system, providing features s
 - JSON for data storage
 
 ## How to Run the Project
+
 To run this project locally, you need to:
 
-- Install dependencies for both backend 
+- Install dependencies for both backend
 
 ```shell
 npm install
@@ -48,4 +51,3 @@ Finished
 ## License
 
 [MIT](./LICENSE)
-

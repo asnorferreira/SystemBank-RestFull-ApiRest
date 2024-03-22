@@ -1,8 +1,8 @@
 # Banking System RESTful API
 
 ![Languages used](https://img.shields.io/github/languages/count/asnorferreira/SystemBank-RestFull-ApiRest?style=flat-square)
-![Repository size](https://img.shields.io/github/repo-size/asnorferreira/SystemBank-RestFull-ApiRest?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/asnorferreira/SystemBank-RestFull-ApiRest?style=flat-square)
+![Repository size](https://img.shields.io/github/repo-size/asnorferreira/desafio-backend-modulo-05-sistema-pdv-dds-t14-dbe-t05?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/asnorferreira/desafio-backend-modulo-05-sistema-pdv-dds-t14-dbe-t05?style=flat-square)
 
 ## About the Project
 
